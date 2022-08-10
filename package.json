@@ -1,0 +1,11 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "description": "Ejercicio1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hector Centeno",
+  "license": "ISC"
+}
